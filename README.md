@@ -23,7 +23,7 @@ Replace `<pid>` with the process ID of your target process. If you want to inter
 
 ## More to Come ⏳  
 
-Stay tuned! We'll be adding more scripts to this repository. Feel free to contribute your own!  
+Stay tuned! i'll be adding more scripts to this repository. Feel free to contribute your own!  
 
 ## Important Note ⚠️  
 
